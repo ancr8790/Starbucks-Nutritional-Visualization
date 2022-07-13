@@ -1,5 +1,5 @@
 # Starbucks-Nutritional-Visualization
-Visualization of Starbucks Drinks Nutrition
+Visualization of Starbucks Drinks Nutrition \\
 Starbucks Drink Nutritional Information Dataset: https://www.kaggle.com/starbucks/starbucks-menu?select=starbucks_drinkMenu_expanded.csv
 
 The dataset I chose to work with describes the drinks offered at Starbucks, a popular café, along with their nutritional information. This data in csv format was found on Kaggle. It features the drink categories and their respective sizing. Additionally, it features standard nutritional information found on most food and beverages in America: 
